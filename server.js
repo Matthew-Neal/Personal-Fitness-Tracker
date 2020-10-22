@@ -16,8 +16,8 @@ mongoose.connect(
 
 
 //Routes
-app.use(require("./routes/api-Routes"));
-app.use(require("./routes/html-Routes"));
+app.use(require("./routes/apiRoutes"));
+app.use(require("./routes/htmlRoutes"));
 
 
 app.listen(PORT, () => {
