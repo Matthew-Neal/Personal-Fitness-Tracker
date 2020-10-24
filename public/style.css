@@ -17,14 +17,21 @@ body {
 }
 
 nav {
-  background-color: #5793fd;
+  background-color: #22beb1;
   color: #ffffff;
   height: 80px;
   padding: 10px;
   line-height: 3;
   font-size: 1.2rem;
+  text-h
 }
 
+#NavDashboard {
+  color: black;
+}
+nav:hover {
+  text-emphasis-color: red;
+}
 a,
 a:hover,
 a:active,
@@ -71,7 +78,7 @@ select:hover {
 
 select:focus {
   border-color: #aaa;
-  box-shadow: 0 0 1px 3px rgba(59, 153, 252, 0.7);
+  box-shadow: 0 0 1px 3px #2d50c4;
   box-shadow: 0 0 0 3px -moz-mac-focusring;
   color: #222;
   outline: none;
@@ -96,7 +103,7 @@ input {
 }
 
 .wrapper {
-  background-color: #f2f8ff;
+  background-color: #dadada;
   padding-bottom: 100px;
 }
 
