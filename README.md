@@ -29,4 +29,4 @@ for additional questions
 
 <h2>Example</h2>
 <br>
-<img src="/assets/images/F1tTracker.gif"></img>
+<img src="/assets/F1tTracker.gif"></img>
