@@ -13,7 +13,7 @@ Personal fitness tracker application to keep track of weekly exercises.
 ## Installation:
 No installation required. Just visit https://f1ttracker.herokuapp.com
 ## App Usage:
-Users create a log of their exercise by clicking on "New Workout" and entering the details. Users can add several at a time or for one just click "
+Users create a log of their exercise by clicking on "New Workout" and entering the details. Users can add several at a time or for one just click "Complete." Once exercise is logged, the last exercise details will be shown. You can also click "Dashboard" in the top Navbar to view charts of your weeks exercises. 
 ## License Details:  
  Open source licenses grant permission for anybody to use, modify, and share licensed software for any purpose, subject to conditions preserving the provenance and openness of the software. The following licenses are sorted by the number of conditions, from most (GNU AGPLv3) to none (Unlicense). Notice that the popular licenses featured on the home page (GNU GPLv3 and MIT) fall within this spectrum.   
 ## List of Contributors:
@@ -26,3 +26,7 @@ https://github.com/Matthew-Neal
  Email me at:  
 impulseimg@gmail.com  
 for additional questions
+
+<h2>Example</h2>
+<br>
+<img src="/assets/images/F1tTracker.gif"></img>
